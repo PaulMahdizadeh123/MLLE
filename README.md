@@ -12,9 +12,9 @@
 
  
 
-## Pipeline
+## 1. Pipeline
 
-## Results
+## 2. Results
 
 <img src="./Figures/LLVIP-Visualization.png">
 
@@ -47,18 +47,18 @@
 
 
 
-## Implementation 
+## 3. Implementation 
 1. Create Environment
 2. Requirements
 3. Prepare Dataset
 4. Testing
 5. Training
 
-## Contact
+## 4. Contact
 For support, email 20110720115@fudan.edu.cn
 
 
-## Citation
+## 5. Citation
 If this work is helpful to you, please cite it as：
 ```shell
 
