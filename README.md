@@ -18,8 +18,7 @@
 
 <img src="./Figures/LLVIP-Visualization.png">
 
-**Figure 6 illustrates a comparison of the visual quality of our method with seven state-of-the-art techniques using three randomly chosen images from the LLVIP dataset.
-**
+**Figure 6 illustrates a comparison of the visual quality of our method with seven state-of-the-art techniques using three randomly chosen images from the LLVIP dataset.**
 
 <img src="./Figures/MSRS-Visualization.png">
 
