@@ -30,7 +30,6 @@
 
 <img src="./Figures/Table1-Quantitative.png">
 
-**Table 1. Quantitative assessment of low-light image enhancement on LLVIP and MSRS datasets using six different metrics. The top-performing method is highlighted in red, while the second-best is indicated in blue.**
 <br/><br/>
 
 
