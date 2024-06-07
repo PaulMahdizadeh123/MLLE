@@ -17,6 +17,8 @@ We will upload the codes and implementation instructions once our research paper
 ![alt text]([http://url/to/img.png](https://github.com/PaulMahdizadeh123/MLLE/blob/main/Figures/LLVIP-Visualization.png))
 
 ![alt text]([http://url/to/img.png](https://github.com/PaulMahdizadeh123/MLLE/blob/main/Figures/LLVIP-Visualization.png))
+<img src="./Figures/LLVIP-Visualization.png">
+
 
 https://github.com/PaulMahdizadeh123/MLLE/blob/main/Figures/MSRS-Visualization.png
 https://github.com/PaulMahdizadeh123/MLLE/blob/main/Figures/Table1-Quantitative.png
