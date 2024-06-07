@@ -14,16 +14,24 @@ We will upload the codes and implementation instructions once our research paper
 ## Pipeline
 
 ## Results
-![alt text]([http://url/to/img.png](https://github.com/PaulMahdizadeh123/MLLE/blob/main/Figures/LLVIP-Visualization.png))
 
-![alt text]([http://url/to/img.png](https://github.com/PaulMahdizadeh123/MLLE/blob/main/Figures/LLVIP-Visualization.png))
 <img src="./Figures/LLVIP-Visualization.png">
+Figure 6 illustrates a comparison of the visual quality of our method with seven state-of-the-art techniques using three randomly chosen images from the LLVIP dataset.
+
+<img src="./Figures/MSRS-Visualization.png">
+Figure 7 illustrates a comparison of the visual quality of our method with seven state-of-the-art techniques using three randomly chosen images from the MSRS dataset.
+
+<img src="./Figures/Table1-Quantitative.png">
+Table 1. Quantitative assessment of low-light image enhancement on LLVIP and MSRS datasets using six different metrics. The top-performing method is highlighted in red, while the second-best is indicated in blue.
+
+<img src="./Figures/segmentations.png">
+Figure 8. Segmentation Outcomes Using Segment Anything
+
+<img src="./Figures/object%20Detection.png">
+Figure 9. Object Recognition Outcomes Using YOLOv3
 
 
-https://github.com/PaulMahdizadeh123/MLLE/blob/main/Figures/MSRS-Visualization.png
-https://github.com/PaulMahdizadeh123/MLLE/blob/main/Figures/Table1-Quantitative.png
-https://github.com/PaulMahdizadeh123/MLLE/blob/main/Figures/object%20Detection.png
-https://github.com/PaulMahdizadeh123/MLLE/blob/main/Figures/segmentations.png
+
 
 ## Implementation 
 1. Create Environment
